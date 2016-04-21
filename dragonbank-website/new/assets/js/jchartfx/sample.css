@@ -1,0 +1,20 @@
+body  {
+    font-family: Arial;
+    font-size: 8pt;
+}
+.thumb_container { width:90px; height:90px; display:inline-block; border:gray solid 1px; }
+.thumb_container.crop{
+	position:relative; overflow:hidden; 
+}
+.thumb_container.icon{
+}
+.thumb_container.icon .chart_container {
+	width:90px;height:90px;display:inline-block
+}
+.thumb_container.crop .chart_container {
+	width:450px;height:345px;display:inline-block
+}
+#currentChart{
+	width:450px;height:345px;
+}
+#main a { margin:5px}

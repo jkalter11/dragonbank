@@ -1,0 +1,442 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body
+{
+	background: url(../images/advisors/background.jpg) fixed center top no-repeat;
+}
+
+h2
+{
+	margin-bottom: 35px;
+}
+
+.no-padding
+{ 
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.container
+{ 
+	background: #fff;
+}
+
+.container.main
+{ 
+	padding-left: 0;
+	padding-right: 0;
+	-webkit-box-shadow: 0px 0px 11px 0px rgba(50, 50, 50, 1);
+	-moz-box-shadow: 0px 0px 11px 0px rgba(50, 50, 50, 1);
+	box-shadow: 0px 0px 11px 0px rgba(50, 50, 50, 1);
+}
+
+.profile-details
+{ 
+	font-size: 12px;
+	color: #1d426c;
+}
+
+header
+{
+	background: url(../images/advisors/header.jpg) no-repeat;
+	height: 200px;
+	position: relative;
+}
+
+header img
+{
+	position: absolute;
+	bottom: 40px;
+	right: 140px;
+}
+
+.row 
+{ 
+	margin-left: 0; 
+	margin-right: 0;
+}
+
+.row.width-padding
+{ 
+	margin-left: -15px; 
+	margin-right: -15px
+}
+
+.left-header
+{ 
+	float: left; 
+	width: 50%;
+}
+
+.left-header h2
+{ 
+	margin: 80px 0 0 20px; 
+	color: #1d426c; 
+	text-transform: uppercase; 
+	font-size: 30px; 
+	clear: both; 
+	float: left;
+}
+
+a.enriched
+{ 
+	margin: 20px 0 0 20px;
+	background: url(../images/advisors/logo.png) no-repeat; 
+	width: 321px; 
+	height: 53px; 
+	display: inline-block;
+	float: left; 
+}
+
+#header-nav
+{
+	margin-bottom: 15px;
+}
+
+#header-nav .nav-bg
+{
+	background: #1d426c;
+}
+
+.navbar-nav
+{ 
+	margin-right: 30px;
+}
+
+#header-nav .nav-bg nav
+{
+	margin-bottom: 0;
+	min-height: 0;
+	border: none;
+	border-radius: 0;
+	background: none;
+	box-shadow: none;
+}
+
+#header-nav .nav-bg nav ul li a 
+{
+	padding: 5px 15px;
+	color: #FFF;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 0 rgba(30, 30, 100, 0.35);
+}
+
+#header-nav .nav-bg nav ul li.active a 
+{
+	color: #1d426c;
+	background: #fcca43;
+}
+
+#body nav
+{
+	margin-bottom: 15px;
+}
+
+#body nav .nav-pills li a
+{
+	border-radius: 0;
+	border: 1px solid #1d426c;
+	color: #1d426c;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+
+#body nav .nav-pills li.active a
+{
+	color: #FFF;
+	background: #1d426c;
+}
+
+#content-right
+{
+	border-left: 1px solid #BBB;
+}
+
+#advisor-panel
+{
+	padding-bottom: 15px;
+}
+
+#advisor-panel img
+{
+	width: 100%;
+}
+
+#code-usage, #order-questions
+{
+	padding: 15px 0;
+	border-top: 1px solid #BBB;
+}
+
+#client-stats
+{
+	margin-bottom: 15px;
+	padding: 5px 0;
+	background: #fecc4f;
+	border-radius: 4px;
+}
+
+#client-stats .row div
+{
+	text-align: center;
+}
+
+#client-stats .row div strong
+{
+	display: block;
+	height: 30px;
+	line-height: 1em;
+}
+
+#client-stats .row div div
+{
+	margin: 0 auto;
+	padding: 5px 0;
+	width: 100px;
+	border: 1px solid #1d426c;
+	background: #FFF;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+#dashboard-stats
+{
+	margin: 30px 0;
+	background: url('../images/advisors/20140922_dashboardStats01a.png') 50% 0% no-repeat;
+	height: 375px;
+	position: relative;
+}
+
+#dashboard-stats .stat-block
+{
+	padding-top: 30px; 
+	color: #FFF; 
+	font-weight: bold; 
+	font-size: 1.4em; 
+	line-height: 1em; 
+	position: absolute;
+	width: 175px; 
+	height: 140px; 
+	text-align: center;
+}
+
+#dashboard-stats .stat-block em
+{
+	display: block; 
+	margin-top: 10px; 
+	font-size: 1.6em;
+}
+
+#dashboard-stats #total-main
+{
+	padding-top: 20px;
+	position: absolute;
+	top: 14px;
+	left: 252px;
+	width: 344px;
+	height: 155px;
+	text-align: center;
+}
+
+#dashboard-stats #total-main img
+{
+	margin: 0 auto;
+	display: block;
+}
+
+#dashboard-stats #total-main em
+{
+	font-size: 2em;
+	font-weight: bold;
+	color: #1d426c;
+}
+
+#dashboard-stats #total-spend-amount
+{
+	top: 33px; 
+	left: 50px;
+}
+
+#dashboard-stats #total-save-amount
+{
+	top: 184px;
+	left: 65px;
+}
+
+#dashboard-stats #total-give-amount
+{
+	top: 230px;
+	left: 242px;
+}
+
+#dashboard-stats #total-impressions
+{
+	top: 230px; 
+	right: 242px;
+}
+
+#dashboard-stats #total-birthdays
+{
+	padding-top: 30px;
+	height: 130px;
+	top: 184px;
+	right: 65px;
+}
+
+#dashboard-stats #total-birthdays a
+{
+	color: #FFF;
+	font-size: 0.5em;
+	font-style: italic;
+}
+
+#dashboard-stats #total-money
+{
+	top: 33px; 
+	right: 50px;
+}
+
+#code-usage .thermometer-base
+{
+	position: relative;
+	width: 100%;
+	height: 300px;
+	background: url(../images/advisors/thermometer_base.png) 50% 0 no-repeat;
+}
+
+#code-usage .thermometer-base .thermometer-fill
+{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	background: url(../images/advisors/thermometer_fill.png) 50% 100% no-repeat;
+}
+
+#code-usage .thermometer-base .thermometer-fill .indicator
+{
+	margin: 0 25px 0 40px;
+	border-top: 1px solid #000;
+	position: relative; 
+}
+
+#code-usage .thermometer-base .thermometer-fill .indicator span
+{
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#code-usage .thermometer-base .code-max
+{
+	padding-top: 7px;
+	font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#code-usage h5
+{
+	font-weight: bold;
+	text-align: center;
+}
+
+#clients th, #birthdays th
+{
+	font-size: 0.8em;
+}
+
+
+footer 
+{
+	padding: 10px 0;
+	border-top: 1px solid #BBB;
+}
+
+.table-bordered, .table-bordered td, .table-bordered th
+{
+	border-color: #1B4774 !important;
+}
+
+.border-right
+{
+	border-right: 1px solid #1B4774;
+}
+
+.border-left
+{
+	border-left: 1px solid #1B4774;
+}
+
+.top-margin
+{
+	margin-top: 20px;
+}
+
+.nav-tabs
+{
+	border: none;
+}
+
+
+.nav.nav-tabs li
+{
+	font-weight: bold;
+	border-bottom: none !important;
+}
+
+.nav.nav-tabs li a
+{
+	border-color: #1B4774;
+	border-bottom: none !important;
+}
+
+.nav.nav-tabs li.active a, .nav.nav-tabs li.active a:hover, .nav.nav-tabs li.active a:focus
+{
+	color: #FFF;
+	background: #1B4774 !important;
+	border-color: #1B4774 !important;
+}
+
+#clients th, #clients td, #birthdays th, #birthdays td
+{
+	text-align: center;
+}
+
+
+@media (min-width: 768px)
+{
+	.container {
+		width: 1170px;
+		max-width: none !important;
+	}
+}
+
+
+@media (min-width: 1200px)
+{
+	.container {
+		width: 1170px;
+		max-width: none !important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

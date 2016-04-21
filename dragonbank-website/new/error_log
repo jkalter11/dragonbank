@@ -1,0 +1,210 @@
+[07-Nov-2013 18:38:01 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/config/routes.php on line 43
+[07-Nov-2013 21:20:41 UTC] PHP Fatal error:  Call to undefined function dynamicMenu() in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 64
+[07-Nov-2013 21:23:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dev11604/public_html/dragonbank/application/helpers/menu_helper.php on line 39
+[07-Nov-2013 21:28:17 UTC] PHP Fatal error:  Call to undefined function the_url() in /home/dev11604/public_html/dragonbank/application/helpers/menu_helper.php on line 32
+[07-Nov-2013 21:39:13 UTC] PHP Fatal error:  Cannot access protected property Home::$data in /home/dev11604/public_html/dragonbank/application/helpers/page_helper.php on line 19
+[07-Nov-2013 21:44:40 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dev11604/public_html/dragonbank/application/helpers/menu_helper.php on line 70
+[07-Nov-2013 22:42:31 UTC] PHP Fatal error:  Cannot use 'Parent' as class name as it is reserved in /home/dev11604/public_html/dragonbank/application/controllers/admin/parent.php on line 5
+[08-Nov-2013 01:57:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/models/codesclass.php on line 98
+[08-Nov-2013 02:26:02 UTC] PHP Fatal error:  Call to undefined function reqType() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 75
+[08-Nov-2013 02:26:23 UTC] PHP Fatal error:  Call to undefined function reqType() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 79
+[08-Nov-2013 02:27:10 UTC] PHP Fatal error:  Call to undefined function reqType() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 79
+[08-Nov-2013 02:28:10 UTC] PHP Fatal error:  Call to undefined function saveCodeList() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 77
+[08-Nov-2013 02:28:22 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/dev11604/public_html/dragonbank/application/models/_mymodel.php on line 135
+[08-Nov-2013 02:28:33 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/dev11604/public_html/dragonbank/application/models/_mymodel.php on line 135
+[08-Nov-2013 02:31:28 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/dev11604/public_html/dragonbank/application/models/_mymodel.php on line 135
+[08-Nov-2013 02:35:49 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/dev11604/public_html/dragonbank/application/models/_mymodel.php on line 135
+[08-Nov-2013 03:07:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 24
+[08-Nov-2013 03:09:32 UTC] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/dev11604/public_html/dragonbank/application/views/code.php on line 114
+[08-Nov-2013 03:24:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 79
+[08-Nov-2013 03:25:10 UTC] PHP Fatal error:  Call to undefined method Code::saveCodes() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 99
+[08-Nov-2013 19:18:28 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/dev11604/public_html/dragonbank/application/models/codesclass.php on line 89
+[08-Nov-2013 21:00:12 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/dev11604/public_html/dragonbank/application/views/_template_admin.php on line 79
+[08-Nov-2013 23:54:11 UTC] PHP Fatal error:  Call to undefined function getWhere_array() in /home/dev11604/public_html/dragonbank/application/models/historyclass.php on line 17
+[08-Nov-2013 23:54:14 UTC] PHP Fatal error:  Call to undefined function getWhere_array() in /home/dev11604/public_html/dragonbank/application/models/historyclass.php on line 17
+[09-Nov-2013 01:06:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev11604/public_html/dragonbank/application/controllers/admin/dashboard.php on line 19
+[09-Nov-2013 02:01:14 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF, expecting ',' or ';' in /home/dev11604/public_html/dragonbank/application/views/settings.php on line 10
+[11-Nov-2013 21:00:10 UTC] PHP Fatal error:  Call to undefined method Order::form() in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 67
+[11-Nov-2013 21:18:16 UTC] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 19
+[11-Nov-2013 21:19:56 UTC] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 19
+[11-Nov-2013 21:33:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 7
+[11-Nov-2013 23:56:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 111
+[11-Nov-2013 23:56:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 111
+[11-Nov-2013 23:58:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 82
+[12-Nov-2013 00:02:58 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 105
+[12-Nov-2013 00:03:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/order.php on line 105
+[12-Nov-2013 00:54:51 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/dev11604/public_html/dragonbank/system/core/CodeIgniter.php on line 233
+[13-Nov-2013 01:08:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::batch_add() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 77
+[13-Nov-2013 01:10:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::batch_add() in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 77
+[13-Nov-2013 01:10:36 UTC] PHP Fatal error:  Call to a member function batch_add() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/admin/code.php on line 77
+[13-Nov-2013 01:37:54 UTC] PHP Fatal error:  Call to undefined function deug() in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkcode.php on line 23
+[13-Nov-2013 02:06:33 UTC] PHP Fatal error:  Call to a member function codeStatusByName() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 14
+[13-Nov-2013 02:30:56 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 27
+[13-Nov-2013 06:15:39 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 42
+[13-Nov-2013 07:08:07 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 25
+[13-Nov-2013 07:08:41 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 26
+[13-Nov-2013 07:08:56 UTC] PHP Parse error:  syntax error, unexpected ',', expecting T_VARIABLE or '$' in /home/dev11604/public_html/dragonbank/application/helpers/validate_form_helper.php on line 58
+[13-Nov-2013 08:03:58 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 15
+[13-Nov-2013 08:05:12 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 15
+[13-Nov-2013 08:05:16 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 15
+[13-Nov-2013 08:05:19 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 15
+[13-Nov-2013 08:05:27 UTC] PHP Parse error:  syntax error, unexpected T_IS_EQUAL, expecting ',' or ')' in /home/dev11604/public_html/dragonbank/application/views/signup2.php on line 167
+[13-Nov-2013 08:06:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/views/signup2.php on line 167
+[13-Nov-2013 08:14:20 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 36
+[13-Nov-2013 08:23:12 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 38
+[13-Nov-2013 08:41:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 39
+[13-Nov-2013 09:03:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 14
+[13-Nov-2013 09:03:55 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 26
+[13-Nov-2013 09:07:09 UTC] PHP Fatal error:  Call to undefined method Signup2::validateSignup2() in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 86
+[13-Nov-2013 09:16:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 50
+[14-Nov-2013 00:17:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 25
+[14-Nov-2013 00:17:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 51
+[14-Nov-2013 00:24:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 47
+[14-Nov-2013 00:24:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 46
+[14-Nov-2013 02:13:57 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/helpers/save_helper.php on line 50
+[14-Nov-2013 02:18:24 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 81
+[14-Nov-2013 02:48:12 UTC] PHP Fatal error:  Call to undefined method Signup3::update() in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 115
+[14-Nov-2013 03:10:41 UTC] PHP Fatal error:  Call to undefined function float() in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 161
+[14-Nov-2013 21:48:55 UTC] PHP Fatal error:  Call to undefined function flash_redireect() in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 160
+[14-Nov-2013 22:16:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /home/dev11604/public_html/dragonbank/application/views/signup.php on line 73
+[14-Nov-2013 22:54:49 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 119
+[14-Nov-2013 22:55:07 UTC] PHP Fatal error:  Call to a member function getKids() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 115
+[15-Nov-2013 00:30:27 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 199
+[15-Nov-2013 01:08:20 UTC] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkemail.php on line 34
+[15-Nov-2013 01:08:28 UTC] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkemail.php on line 34
+[15-Nov-2013 01:08:57 UTC] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkemail.php on line 34
+[15-Nov-2013 01:10:17 UTC] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkemail.php on line 34
+[15-Nov-2013 01:11:02 UTC] PHP Fatal error:  Call to undefined method CI_Session::uesrdata() in /home/dev11604/public_html/dragonbank/application/controllers/ajax_checkemail.php on line 30
+[15-Nov-2013 19:37:04 UTC] PHP Fatal error:  Call to undefined function go() in /home/dev11604/public_html/dragonbank/application/controllers/login.php on line 72
+[15-Nov-2013 19:53:40 UTC] PHP Fatal error:  Call to undefined function fail() in /home/dev11604/public_html/dragonbank/application/controllers/login.php on line 70
+[15-Nov-2013 22:25:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/dev11604/public_html/dragonbank/application/controllers/admin/status.php on line 1
+[15-Nov-2013 22:25:33 UTC] PHP Fatal error:  Cannot access empty property in /home/dev11604/public_html/dragonbank/application/controllers/admin/status.php on line 55
+[15-Nov-2013 22:54:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/admin/status.php on line 40
+[15-Nov-2013 23:25:00 UTC] PHP Parse error:  syntax error, unexpected T_DEFAULT in /home/dev11604/public_html/dragonbank/application/controllers/admin/children.php on line 30
+[16-Nov-2013 00:45:20 UTC] PHP Fatal error:  Call to undefined function parentActive() in /home/dev11604/public_html/dragonbank/application/controllers/admin/status.php on line 73
+[16-Nov-2013 00:45:30 UTC] PHP Fatal error:  Call to undefined function getOneWhere() in /home/dev11604/public_html/dragonbank/application/models/parentsclass.php on line 19
+[16-Nov-2013 00:45:42 UTC] PHP Fatal error:  Call to undefined function getOneWhere() in /home/dev11604/public_html/dragonbank/application/models/parentsclass.php on line 19
+[16-Nov-2013 01:30:39 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/dev11604/public_html/dragonbank/application/models/_mymodel.php on line 333
+[18-Nov-2013 20:11:59 UTC] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[18-Nov-2013 20:12:10 UTC] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[18-Nov-2013 20:16:12 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting '(' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 23
+[18-Nov-2013 20:16:28 UTC] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[18-Nov-2013 20:17:10 UTC] PHP Fatal error:  Call to undefined method CI_Loader::sud() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[18-Nov-2013 20:17:39 UTC] PHP Fatal error:  Call to undefined method CI_Loader::sud() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[18-Nov-2013 20:17:58 UTC] PHP Fatal error:  Call to undefined method Profile::sud() in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 12
+[18-Nov-2013 20:55:39 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 12
+[18-Nov-2013 20:56:06 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 12
+[18-Nov-2013 20:56:57 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 12
+[18-Nov-2013 21:10:51 UTC] PHP Fatal error:  Call to undefined method CI_Loader::sud() in /home/dev11604/public_html/dragonbank/application/views/profile.php on line 8
+[19-Nov-2013 21:49:17 UTC] PHP Fatal error:  Cannot use [] for reading in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 348
+[19-Nov-2013 22:03:25 UTC] PHP Fatal error:  Call to a member function getChildInfoByParent() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 319
+[20-Nov-2013 00:19:26 UTC] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 264
+[20-Nov-2013 00:41:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 90
+[20-Nov-2013 01:17:59 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 69
+[20-Nov-2013 01:18:32 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 69
+[20-Nov-2013 01:20:28 UTC] PHP Parse error:  syntax error, unexpected T_OBJECT_CAST in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 31
+[20-Nov-2013 01:20:54 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 31
+[20-Nov-2013 01:27:01 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 31
+[20-Nov-2013 01:27:16 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 31
+[20-Nov-2013 01:30:49 UTC] PHP Fatal error:  Call to undefined function object() in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 178
+[20-Nov-2013 01:33:52 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 137
+[20-Nov-2013 01:34:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 178
+[20-Nov-2013 01:34:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 178
+[20-Nov-2013 01:34:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 178
+[20-Nov-2013 01:34:40 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 178
+[20-Nov-2013 03:33:45 UTC] PHP Parse error:  syntax error, unexpected $end in /home/dev11604/public_html/dragonbank/application/views/parentsprofile.php on line 199
+[20-Nov-2013 03:38:49 UTC] PHP Parse error:  syntax error, unexpected $end in /home/dev11604/public_html/dragonbank/application/views/parentsprofile.php on line 173
+[20-Nov-2013 03:47:09 UTC] PHP Fatal error:  Call to undefined method CI_Upload::display_error() in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 291
+[20-Nov-2013 03:49:55 UTC] PHP Fatal error:  Call to undefined method CI_Upload::display_error() in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 291
+[20-Nov-2013 18:55:10 UTC] PHP Fatal error:  Call to a member function getChild() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 52
+[20-Nov-2013 18:55:34 UTC] PHP Fatal error:  Call to a member function getChild() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 52
+[20-Nov-2013 18:55:37 UTC] PHP Fatal error:  Call to a member function getChild() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 52
+[20-Nov-2013 19:05:13 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:05:32 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:05:48 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:05:54 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:06:32 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:06:33 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 19:06:39 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 7
+[20-Nov-2013 21:16:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 32
+[20-Nov-2013 21:17:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/deposit.php on line 32
+[21-Nov-2013 00:44:11 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/withdraw.php on line 27
+[21-Nov-2013 03:00:38 UTC] PHP Fatal error:  Call to undefined method History::validateProfileUser() in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 20
+[21-Nov-2013 03:53:41 UTC] PHP Fatal error:  Call to a member function getHistory() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 75
+[21-Nov-2013 04:30:52 UTC] PHP Fatal error:  Cannot redeclare History::setHistory() in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 148
+[21-Nov-2013 04:31:13 UTC] PHP Fatal error:  Cannot redeclare History::setHistory() in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 148
+[21-Nov-2013 04:33:46 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 116
+[21-Nov-2013 22:15:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/views/history.php on line 26
+[21-Nov-2013 22:23:23 UTC] PHP Fatal error:  Call to a member function vars() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 347
+[21-Nov-2013 22:32:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 309
+[21-Nov-2013 22:42:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dev11604/public_html/dragonbank/application/views/history.php on line 56
+[21-Nov-2013 23:01:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 72
+[21-Nov-2013 23:01:41 UTC] PHP Fatal error:  Call to undefined method Profile::getWithdrawlDate() in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 72
+[21-Nov-2013 23:02:05 UTC] PHP Fatal error:  Call to undefined function getOneWhere() in /home/dev11604/public_html/dragonbank/application/models/historyclass.php on line 42
+[21-Nov-2013 23:10:08 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/dev11604/public_html/dragonbank/application/controllers/profile/profile.php on line 84
+[21-Nov-2013 23:34:42 UTC] PHP Fatal error:  Call to undefined method History::setDataNotFound() in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 267
+[22-Nov-2013 00:14:56 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/profile/history.php on line 313
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 39
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 40
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 41
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 42
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 43
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 44
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 45
+[22-Nov-2013 01:18:51 UTC] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/dev11604/public_html/dragonbank/application/config/constants.php on line 46
+[22-Nov-2013 02:38:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev11604/public_html/dragonbank/application/controllers/passwordrecovery.php on line 59
+[22-Nov-2013 03:01:01 UTC] PHP Fatal error:  Call to undefined method Passwordrecovery::fieldExists() in /home/dev11604/public_html/dragonbank/application/controllers/passwordrecovery.php on line 45
+[22-Nov-2013 03:02:23 UTC] PHP Fatal error:  Call to undefined function forgetPasswordMsg() in /home/dev11604/public_html/dragonbank/application/controllers/passwordrecovery.php on line 67
+[22-Nov-2013 20:52:52 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 7
+[22-Nov-2013 20:53:08 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 69
+[22-Nov-2013 20:53:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 69
+[22-Nov-2013 21:07:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/helpers/mailchimp_helper.php on line 30
+[22-Nov-2013 21:17:24 UTC] PHP Fatal error:  Call to a member function call() on a non-object in /home/dev11604/public_html/dragonbank/application/helpers/mailchimp_helper.php on line 41
+[22-Nov-2013 21:18:48 UTC] PHP Fatal error:  Call to a member function call() on a non-object in /home/dev11604/public_html/dragonbank/application/helpers/mailchimp_helper.php on line 41
+[22-Nov-2013 22:57:01 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/models/verifyemailclass.php on line 30
+[22-Nov-2013 23:04:40 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/dev11604/public_html/dragonbank/application/models/verifyemailclass.php on line 30
+[22-Nov-2013 23:04:57 UTC] PHP Fatal error:  Class 'Verifyemailclass' not found in /home/dev11604/public_html/dragonbank/system/core/Loader.php on line 303
+[25-Nov-2013 04:03:26 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:04:40 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:04:49 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:04:54 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:04:55 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:06:56 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 04:07:19 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 11
+[25-Nov-2013 05:59:40 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dev11604/public_html/dragonbank/application/controllers/cron.php on line 18
+[25-Nov-2013 09:16:15 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/dev11604/public_html/dragonbank/application/libraries/crontab.php on line 208
+[25-Nov-2013 20:38:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 245
+[25-Nov-2013 20:43:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 245
+[25-Nov-2013 21:29:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dev11604/public_html/dragonbank/application/controllers/signup2.php on line 105
+[25-Nov-2013 21:46:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 245
+[26-Nov-2013 02:20:54 UTC] PHP Fatal error:  Call to undefined function siteStatus() in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 33
+[26-Nov-2013 02:31:08 UTC] PHP Fatal error:  Call to undefined method Usersclass::getStatus() in /home/dev11604/public_html/dragonbank/application/helpers/user_status_helper.php on line 122
+[26-Nov-2013 02:32:28 UTC] PHP Fatal error:  Using $this when not in object context in /home/dev11604/public_html/dragonbank/application/helpers/user_status_helper.php on line 122
+[26-Nov-2013 02:32:31 UTC] PHP Fatal error:  Using $this when not in object context in /home/dev11604/public_html/dragonbank/application/helpers/user_status_helper.php on line 122
+[26-Nov-2013 03:00:46 UTC] PHP Fatal error:  Call to a member function getNewsletters() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 488
+[26-Nov-2013 03:01:22 UTC] PHP Fatal error:  Call to a member function getNewsletters() on a non-object in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 488
+[26-Nov-2013 03:01:43 UTC] PHP Fatal error:  Call to undefined method Parentsclass::getNewsletters() in /home/dev11604/public_html/dragonbank/application/controllers/profile/parentsprofile.php on line 488
+[26-Nov-2013 20:50:44 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dev11604/public_html/dragonbank/application/views/history.php on line 16
+[26-Nov-2013 20:58:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/withdraw.php on line 19
+[26-Nov-2013 20:58:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/controllers/profile/withdraw.php on line 19
+[26-Nov-2013 21:09:00 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF, expecting ',' or ';' in /home/dev11604/public_html/dragonbank/application/views/parenting.php on line 17
+[27-Nov-2013 03:44:36 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '{' in /home/dev11604/public_html/dragonbank/application/controllers/email_template.php on line 3
+[27-Nov-2013 13:04:12 America/Vancouver] PHP Fatal error:  Call to a member function parse() on a non-object in /home/dev11604/public_html/dragonbank/application/helpers/current_email_helper.php on line 110
+[02-Dec-2013 06:06:43 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dev11604/public_html/dragonbank/application/helpers/head_helper.php on line 30
+[02-Dec-2013 07:13:54 UTC] PHP Parse error:  syntax error, unexpected T_ENDFOR in /home/dev11604/public_html/dragonbank/application/views/signup2.php on line 174
+[02-Dec-2013 07:58:35 UTC] PHP Parse error:  syntax error, unexpected T_WHILE in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 234
+[02-Dec-2013 09:00:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 141
+[02-Dec-2013 09:05:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/dev11604/public_html/dragonbank/application/controllers/signup3.php on line 239
+[02-Dec-2013 19:59:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev11604/public_html/dragonbank/application/models/historyclass.php on line 22
+[02-Dec-2013 22:43:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/dev11604/public_html/dragonbank/application/helpers/current_email_helper.php on line 83
+[03-Dec-2013 00:39:41 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/dev11604/public_html/dragonbank/application/helpers/current_email_helper.php on line 78
+[03-Dec-2013 00:43:02 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dev11604/public_html/dragonbank/application/helpers/current_email_helper.php on line 76
+[03-Dec-2013 00:52:52 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dev11604/public_html/dragonbank/application/controllers/allowance_cron.php on line 85
+[03-Dec-2013 02:14:03 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/controllers/ajax/ajax_timezone.php on line 14
+[03-Dec-2013 02:14:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/controllers/ajax/ajax_timezone.php on line 14
+[03-Dec-2013 02:42:16 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 34
+[03-Dec-2013 02:42:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 34
+[03-Dec-2013 02:42:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 34
+[03-Dec-2013 02:43:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 34
+[03-Dec-2013 02:43:47 UTC] PHP Fatal error:  Can't use method return value in write context in /home/dev11604/public_html/dragonbank/application/core/MY_Controller.php on line 34
+[03-Dec-2013 12:23:19 America/Los_Angeles] PHP Fatal error:  Using $this when not in object context in /home/dev11604/public_html/dragonbank/application/helpers/current_email_helper.php on line 102

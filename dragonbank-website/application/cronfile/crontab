@@ -1,0 +1,2 @@
+*/1 * * * * /usr/bin/wget -O /dev/null http://dev11.604media.com/dragonbank/allowance_cron
+0 0 * * * /usr/bin/wget -O /dev/null http://dragonbank.com/allowance_cron
